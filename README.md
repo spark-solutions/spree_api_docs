@@ -2,7 +2,7 @@
 Swagger UI Engine to serve Spree API V2 documentation
 
 ```ruby
-gem 'spree_api_docs, github: 'spree-contrib/spree_api_docs''
+gem 'spree_api_docs', github: 'spree-contrib/spree_api_docs'
 ```
 
 And then execute:
